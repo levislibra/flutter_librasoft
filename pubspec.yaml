@@ -14,7 +14,7 @@ dependencies:
   flutter_auth_buttons: ^0.8.0
   font_awesome_flutter: ^8.8.1
   equatable: ^1.1.1
-  bloc: ^4.0.0
+  flutter_bloc: ^4.0.0
   google_sign_in: ^4.4.4
   meta: ^1.1.8
 
